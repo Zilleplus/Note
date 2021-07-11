@@ -1,0 +1,13 @@
+#lang pie
+
+'atom
+
+'ratatouille
+
+; Example of a judgement:
+; 'ratatouille is an Atom
+
+; Example of a commandment:
+; 'a is the same Atom as 'a
+
+(cons 'rat 'bag)
